@@ -3,7 +3,7 @@
 This is a simple yet fully functional **HTML + CSS + JavaScript** contact form designed with **client-side validation**, **beautiful styling**, and an auto-dismissing **success message**.
 ---
 
-You can check out the page here : https://pegasus-x.github.io/contact-form/
+🔗 Live Demo: https://pegasus-x.github.io/contact-form/
  
 ## 🚀 Features
 
